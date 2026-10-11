@@ -1,5 +1,5 @@
 #!/bin/bash
-ENVIRONMENT="production"
+ENVIRONMENT="pre-production"
 
 echo "Starting deployment..."
 echo "Environment: $ENVIRONMENT"
